@@ -78,3 +78,15 @@ Example:
 
 Logic
 Reverse the number and compare with original.
+
+
+
+7️⃣ Fibonacci Series
+Definition
+
+Each number is sum of previous two.
+
+0, 1, 1, 2, 3, 5, 8, 13...
+
+Formula
+F(n) = F(n−1) + F(n−2)
