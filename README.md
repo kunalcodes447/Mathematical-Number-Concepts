@@ -104,3 +104,15 @@ Example:
 Divisors:
 1, 2, 3
 Sum = 6
+
+
+
+9️⃣ Strong Number
+Definition
+
+Sum of factorial of digits equals number.
+
+Example:
+145
+
+1! + 4! + 5! = 145
