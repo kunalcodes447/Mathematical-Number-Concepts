@@ -39,3 +39,15 @@ n & 1 == 0
 
 Binary Logic:
 Last bit = 0
+
+
+
+4️⃣ Odd Number
+Definition
+
+Not divisible by 2.
+
+Logic
+n % 2 != 0
+n & 1 != 0
+Binary: Last bit = 1
