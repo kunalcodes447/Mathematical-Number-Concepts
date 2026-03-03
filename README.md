@@ -65,3 +65,16 @@ For 153:
 1³ + 5³ + 3³ = 153
 
 Works for any number of digits.
+
+
+
+6️⃣ Palindrome Number
+Definition
+
+Number that reads same forward and backward.
+
+Example:
+121, 1331
+
+Logic
+Reverse the number and compare with original.
