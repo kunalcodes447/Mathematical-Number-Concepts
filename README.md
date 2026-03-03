@@ -25,3 +25,17 @@ A number greater than 1 that has more than two divisors.
 
 Example:
 4 (1,2,4), 6 (1,2,3,6)
+
+
+
+3️⃣ Even Number
+Definition
+
+Divisible by 2.
+
+Logic
+n % 2 == 0
+n & 1 == 0
+
+Binary Logic:
+Last bit = 0
