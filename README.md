@@ -116,3 +116,15 @@ Example:
 145
 
 1! + 4! + 5! = 145
+
+
+
+🔟 Automorphic Number
+Definition
+
+Square of number ends with the number itself.
+
+Example:
+5² = 25
+6² = 36
+25² = 625
