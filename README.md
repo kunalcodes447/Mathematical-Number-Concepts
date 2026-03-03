@@ -90,3 +90,17 @@ Each number is sum of previous two.
 
 Formula
 F(n) = F(n−1) + F(n−2)
+
+
+
+8️⃣ Perfect Number
+Definition
+
+Sum of proper divisors equals the number.
+
+Example:
+6
+
+Divisors:
+1, 2, 3
+Sum = 6
