@@ -51,3 +51,17 @@ Logic
 n % 2 != 0
 n & 1 != 0
 Binary: Last bit = 1
+
+
+
+5️⃣ Armstrong Number (Narcissistic Number)
+Definition
+
+Sum of digits raised to power of number of digits equals the number itself.
+
+Logic (3-digit example)
+
+For 153:
+1³ + 5³ + 3³ = 153
+
+Works for any number of digits.
