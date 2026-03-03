@@ -6,13 +6,10 @@ All possible well-structured list of important mathematical/number concepts
 Definition
 
 A number greater than 1 that has exactly two divisors:
-
 1
-
 Itself
 
 Logic
-
 If no number between 2 and √n divides it → it is prime.
 
 Example:
