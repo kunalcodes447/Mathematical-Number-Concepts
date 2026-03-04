@@ -143,4 +143,14 @@ Example:
 
 
 
+1️⃣2️⃣ Neon Number
+Definition
+
+Sum of digits of square equals number.
+
+Example:
+9² = 81
+8+1 = 9
+
+
 
