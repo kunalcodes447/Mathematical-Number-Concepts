@@ -154,3 +154,14 @@ Example:
 
 
 
+1️⃣3️⃣ Spy Number
+Definition
+
+Sum of digits = Product of digits.
+
+Example:
+1124
+Sum = 8
+Product = 8
+
+
