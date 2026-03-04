@@ -128,3 +128,19 @@ Example:
 5² = 25
 6² = 36
 25² = 625
+
+
+
+1️⃣1️⃣ Harshad (Niven) Number
+Definition
+
+Divisible by sum of digits.
+
+Example:
+18
+1+8 = 9
+18 % 9 == 0
+
+
+
+
