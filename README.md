@@ -165,3 +165,24 @@ Sum = 8
 Product = 8
 
 
+
+1️⃣4️⃣ Duck Number
+Definition
+
+Contains zero but does not start with zero.
+
+Example:
+1023
+
+
+
+1️⃣5️⃣ Kaprekar Number
+Definition
+
+Square split into two parts whose sum equals original number.
+
+Example:
+45
+45² = 2025
+20 + 25 = 45
+
