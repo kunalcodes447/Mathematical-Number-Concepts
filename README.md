@@ -186,3 +186,121 @@ Example:
 45² = 2025
 20 + 25 = 45
 
+
+
+1️⃣6️⃣ Disarium Number
+Definition
+
+Sum of digits powered with their positions equals number.
+
+Example:
+135
+1¹ + 3² + 5³ = 135
+
+🔢 1️⃣7️⃣ Happy Number
+Definition
+
+Repeatedly replace number by sum of square of digits.
+If it ends in 1 → Happy.
+
+Example:
+19 → 82 → 68 → 100 → 1
+
+🔢 1️⃣8️⃣ Abundant Number
+Definition
+
+Sum of proper divisors > number.
+
+Example:
+12
+1+2+3+4+6 = 16 > 12
+
+🔢 1️⃣9️⃣ Deficient Number
+Definition
+
+Sum of proper divisors < number.
+
+🔢 2️⃣0️⃣ Circular Prime
+Definition
+
+All rotations of number are prime.
+
+Example:
+197
+971
+719
+All prime.
+
+🔢 2️⃣1️⃣ Twin Prime
+Definition
+
+Prime numbers with difference of 2.
+
+Example:
+(11, 13), (17, 19)
+
+🔢 2️⃣2️⃣ Emirp Number
+Definition
+
+Prime number whose reverse is also prime and different.
+
+Example:
+13 → 31
+
+🔢 2️⃣3️⃣ Factorial
+Definition
+
+n! = n × (n-1) × (n-2) …
+
+Example:
+5! = 120
+
+🔢 2️⃣4️⃣ GCD (Greatest Common Divisor)
+Definition
+
+Largest number dividing both numbers.
+
+Logic:
+Euclidean Algorithm.
+
+🔢 2️⃣5️⃣ LCM (Least Common Multiple)
+Formula
+LCM(a, b) = (a × b) / GCD(a, b)
+🔢 2️⃣6️⃣ Perfect Square
+
+Number whose square root is integer.
+
+Example:
+16 → √16 = 4
+
+🔢 2️⃣7️⃣ Perfect Cube
+
+Cube root is integer.
+
+🔢 2️⃣8️⃣ Magic Number
+
+Repeated digit sum becomes 1.
+
+Example:
+1729 → 1+7+2+9 = 19 → 1+9 = 10 → 1+0 = 1
+
+🔢 2️⃣9️⃣ Co-Prime Numbers
+
+Two numbers whose GCD = 1.
+
+Example:
+8 and 15
+
+🔢 3️⃣0️⃣ Catalan Numbers (Advanced)
+
+Sequence used in combinatorics.
+
+Formula:
+
+C(n) = (2n)! / ((n+1)! n!)
+
+Used in:
+
+Binary trees
+
+Parenthesis problems
