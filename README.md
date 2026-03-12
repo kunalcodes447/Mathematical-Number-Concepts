@@ -197,7 +197,9 @@ Example:
 135
 1¹ + 3² + 5³ = 135
 
-🔢 1️⃣7️⃣ Happy Number
+
+
+1️⃣7️⃣ Happy Number
 Definition
 
 Repeatedly replace number by sum of square of digits.
