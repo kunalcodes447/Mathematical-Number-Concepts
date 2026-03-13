@@ -208,7 +208,9 @@ If it ends in 1 → Happy.
 Example:
 19 → 82 → 68 → 100 → 1
 
-🔢 1️⃣8️⃣ Abundant Number
+
+
+1️⃣8️⃣ Abundant Number
 Definition
 
 Sum of proper divisors > number.
