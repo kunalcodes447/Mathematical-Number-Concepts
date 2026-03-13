@@ -226,7 +226,9 @@ Definition
 
 Sum of proper divisors < number.
 
-🔢 2️⃣0️⃣ Circular Prime
+
+
+2️⃣0️⃣ Circular Prime
 Definition
 
 All rotations of number are prime.
@@ -237,7 +239,9 @@ Example:
 719
 All prime.
 
-🔢 2️⃣1️⃣ Twin Prime
+
+
+2️⃣1️⃣ Twin Prime
 Definition
 
 Prime numbers with difference of 2.
