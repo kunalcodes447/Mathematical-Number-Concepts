@@ -219,7 +219,9 @@ Example:
 12
 1+2+3+4+6 = 16 > 12
 
-🔢 1️⃣9️⃣ Deficient Number
+
+
+1️⃣9️⃣ Deficient Number
 Definition
 
 Sum of proper divisors < number.
