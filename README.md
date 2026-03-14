@@ -249,7 +249,9 @@ Prime numbers with difference of 2.
 Example:
 (11, 13), (17, 19)
 
-🔢 2️⃣2️⃣ Emirp Number
+
+
+2️⃣2️⃣ Emirp Number
 Definition
 
 Prime number whose reverse is also prime and different.
