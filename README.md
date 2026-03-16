@@ -279,7 +279,9 @@ Largest number dividing both numbers.
 Logic:
 Euclidean Algorithm.
 
-🔢 2️⃣5️⃣ LCM (Least Common Multiple)
+
+
+2️⃣5️⃣ LCM (Least Common Multiple)
 Formula
 LCM(a, b) = (a × b) / GCD(a, b)
 🔢 2️⃣6️⃣ Perfect Square
