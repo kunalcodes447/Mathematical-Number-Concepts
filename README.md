@@ -269,7 +269,9 @@ n! = n × (n-1) × (n-2) …
 Example:
 5! = 120
 
-🔢 2️⃣4️⃣ GCD (Greatest Common Divisor)
+
+
+2️⃣4️⃣ GCD (Greatest Common Divisor)
 Definition
 
 Largest number dividing both numbers.
