@@ -259,7 +259,9 @@ Prime number whose reverse is also prime and different.
 Example:
 13 → 31
 
-🔢 2️⃣3️⃣ Factorial
+
+
+2️⃣3️⃣ Factorial
 Definition
 
 n! = n × (n-1) × (n-2) …
