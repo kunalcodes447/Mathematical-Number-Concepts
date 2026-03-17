@@ -300,7 +300,9 @@ Example:
 
 Cube root is integer.
 
-🔢 2️⃣8️⃣ Magic Number
+
+
+2️⃣8️⃣ Magic Number
 
 Repeated digit sum becomes 1.
 
