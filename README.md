@@ -284,7 +284,10 @@ Euclidean Algorithm.
 2️⃣5️⃣ LCM (Least Common Multiple)
 Formula
 LCM(a, b) = (a × b) / GCD(a, b)
-🔢 2️⃣6️⃣ Perfect Square
+
+
+
+2️⃣6️⃣ Perfect Square
 
 Number whose square root is integer.
 
