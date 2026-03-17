@@ -294,7 +294,9 @@ Number whose square root is integer.
 Example:
 16 → √16 = 4
 
-🔢 2️⃣7️⃣ Perfect Cube
+
+
+2️⃣7️⃣ Perfect Cube
 
 Cube root is integer.
 
