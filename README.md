@@ -310,6 +310,7 @@ Example:
 1729 → 1+7+2+9 = 19 → 1+9 = 10 → 1+0 = 1
 
 
+
 2️⃣9️⃣ Co-Prime Numbers
 
 Two numbers whose GCD = 1.
