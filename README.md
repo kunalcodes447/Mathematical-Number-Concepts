@@ -318,6 +318,8 @@ Two numbers whose GCD = 1.
 Example:
 8 and 15
 
+
+
 3️⃣0️⃣ Catalan Numbers (Advanced)
 
 Sequence used in combinatorics.
