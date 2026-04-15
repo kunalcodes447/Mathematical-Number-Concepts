@@ -330,5 +330,4 @@ C(n) = (2n)! / ((n+1)! n!)
 Used in:
 
 Binary trees
-
 Parenthesis problems
